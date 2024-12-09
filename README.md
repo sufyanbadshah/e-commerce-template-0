@@ -1,6 +1,7 @@
-quarter 2 UI-Ux Hackathon
+Q2 UI-UX Hackathon 
+Template 0
 
-__Tech Stack__
+__Tech Stack__Used
 1: Next.js
 2: Tailwind CSS
 3: ShadCn UI
@@ -11,4 +12,4 @@ __Tech Stack__
 
 
 
-Live Demo - https://ui-ux-hackathon-five.vercel.app/
+Live Demo - https://e-commerce-template-0.vercel.app/
